@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.openmuc:jrxtx:1.0.0" type="repository">
+    <properties maven-id="org.openmuc:jrxtx:1.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openmuc/jrxtx/1.0.0/jrxtx-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
